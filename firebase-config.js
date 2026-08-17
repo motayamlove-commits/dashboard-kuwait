@@ -1,13 +1,12 @@
-// Firebase configuration provided by the user
+// Firebase configuration — المشروع الموحّد الجديد (kuwait-b7d4b)
 const firebaseConfig = {
-  apiKey: "AIzaSyBT3drctxZJONfCaEPhurqpFW9KmdVgGi0",
-  authDomain: "panel-33258.firebaseapp.com",
-  databaseURL: "https://panel-33258-default-rtdb.firebaseio.com",
-  projectId: "panel-33258",
-  storageBucket: "panel-33258.firebasestorage.app",
-  messagingSenderId: "987800222103",
-  appId: "1:987800222103:web:c55c410a4f1a8bfc77ecd2",
-  measurementId: "G-VVSQT8KXG8"
+  apiKey: "AIzaSyAfWfzLyUlsq3NFsU2JK-qcIZkXgN023U0",
+  authDomain: "kuwait-b7d4b.firebaseapp.com",
+  databaseURL: "https://kuwait-b7d4b-default-rtdb.firebaseio.com",
+  projectId: "kuwait-b7d4b",
+  storageBucket: "kuwait-b7d4b.firebasestorage.app",
+  messagingSenderId: "686238776602",
+  appId: "1:686238776602:web:dfb65a9525b3b86cd740a3"
 };
 
 // Global variable to be accessed by other scripts if needed
